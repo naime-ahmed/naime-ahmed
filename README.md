@@ -6,7 +6,6 @@
 <h1 align="center">Hi 👋, I'm Md. Naime Molla</h1>
 <h3 align="center">
   I'm a passionate web developer and love to convert business logic into code.
-  from Bangladesh
 </h3>
 <img
   align="right"
